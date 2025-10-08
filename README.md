@@ -7,6 +7,6 @@ I'm still working on making it all happen.
 ##
 
 And...
-
 I'm in love with this stats card! 📊
+
 ![AlvaroOlivix GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroOlivix&show_icons=true&theme=kacho_ga&include_all_commit=true)
